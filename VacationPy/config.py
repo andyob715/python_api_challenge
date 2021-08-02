@@ -1,1 +1,1 @@
-g_key = "AIzaSyBSVE0LJQAySGPm6PadfRuXxQbwk6g9df8"
+removed
