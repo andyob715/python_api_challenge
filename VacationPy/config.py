@@ -1,1 +1,1 @@
-g_key = "AIzaSyBSVE0LJQAySGPm6PadfRuXxQbwk6g9df8"
+g_key = "Please enter g_key to rerun analysis locally"
